@@ -1,1 +1,2 @@
 Testing Direct Commit
+Now it should go
